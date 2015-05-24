@@ -7,3 +7,7 @@ To download and run:
      cd sauna-navigation-example/
      npm install electron-prebuilt --save-dev
      electron app
+
+This is the source code for the tutorial on my blog here: http://www.mylifeforthecode.com/getting-started-with-sauna-js-creating-a-simple-single-page-app-in-electron/
+
+This example has an early version of Sauna.js, the one at https://github.com/srakowski/sauna will be up to date.
